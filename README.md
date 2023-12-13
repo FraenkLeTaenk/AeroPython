@@ -18,6 +18,11 @@ The materials are distributed publicly and openly under a Creative Commons Attri
 
 Barba, Lorena A., Mesnard, Olivier (2019). Aero Python: classical aerodynamics of potential flow using Python. Journal of Open Source Education, 2(15), 45, https://doi.org/10.21105/jose.00045
 
+# TEST
+--------------------------------
+FRANKS EDIT
+--------------------------------
+
 ## Archive
 
 — Barba, Lorena A.; Mesnard, Olivier (2014): AeroPython. figshare. Code.
